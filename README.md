@@ -5,6 +5,6 @@ There are 5 questions from the domain of General Knowledge,Entertainment,and spo
 
 ## Screenshots
 
-![](first.png x250)
+![](first.png =x250)
 ![](second.png x250)
-![](third.pngx250)
+![](third.png = x250)
