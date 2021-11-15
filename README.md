@@ -1,5 +1,7 @@
 # Quiz Appication for kids
-There are 5 questions from the domain of General Knowledge,Entertainment,and sports. 
+There are 5 questions from the domain of General Knowledge,Entertainment,and sports.
+The User has few options to select of which one is correct answer.
+The score is calculated as, for correct answer +1 for wrong answer +0;
 
 
 
